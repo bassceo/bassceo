@@ -1,4 +1,3 @@
-<img style="width: 100%;" src="https://i.pinimg.com/564x/67/96/74/679674e79ffe46f14c26523380b2e998.jpg"/>
 
 [![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/22px-Telegram_logo.svg.png)](https://t.me/nmequalmn) 
 <br/>
