@@ -6,7 +6,7 @@
 
 - [Лабораторные по Java (2 семестр)](https://github.com/bassceo/java-sem2).
 
-- [Проект "Умный бюджет" на React.js](https://github.com/bassceo/finance-tracker-react): Приложение для учета финансов, разработанное на React.js с использованием Redux Toolkit и Material UI. 
+- [Проект "Умный бюджет" на React.js](https://github.com/bassceo/finance-tracker-react) - приложение для учета финансов, разработанное на React.js с использованием Redux Toolkit и Material UI. 
 
 ## Статистика посещений
 
